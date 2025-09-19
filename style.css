@@ -1,0 +1,39 @@
+header
+{
+    height:125px;
+    width:1500px;
+    background-color:#ccc;
+    border-bottom:5px solid #fff;
+}
+main
+{
+    padding:0px;
+    width:1500px;
+}
+#nav1
+{
+    height:50px;
+    width:1500px;
+    background-color:#888;
+    margin-top:55px;
+}
+article
+{
+    height:1490px;
+    width:1090px;
+    background-color:#555;
+    float:right;
+    padding:5px;
+    overflow: auto;
+}
+aside
+{
+    height:1495px;
+    width: 390px;
+    background-color:#222;
+    border-right: 5px solid #fff;
+    overflow:auto;
+    float:left;
+    padding-left:5px;
+    padding-top:5px;
+}
