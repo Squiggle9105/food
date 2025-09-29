@@ -1,11 +1,14 @@
+
 header
 {
     height: 70px;
     width:1480px;
-    background-color:#936;
-    text-align:right;
+    background-color:#143;
+    text-align:center;
     padding-right:20px;
     padding-top:30px;
+    margin:0px;
+    border-radius:10px 10px 0px 0px;
 }
 main
 {
@@ -16,7 +19,7 @@ main
 {
     height:22px;
     width:1494px;
-    background-color:#c69;
+    background-color:#076;
     padding-left:3px;
     padding-right:3px;
     padding-top:3px;
@@ -25,40 +28,50 @@ main
 }
 #nav2
 {
-    height:200px;
-    width:200px;
-    background-color:#fac;
+    height:400px;
+    width: 315px;
+    background-color:#bfe;
+    border-radius:10px;
+    padding:5px;
+    text-align:center;
 }
 a
 {
-    color:#343;
+    color:#021;
     font-weight:bold;
+}
+a:hover
+{
+    color:#0fe;
 }
 article
 {
-    height:640px;
-    width:1090px;
-    background-color:#588;
+    height:590px;
+    width:1150px;
+    background-color:#6ba;
     float:right;
     padding:5px;
     overflow: auto;
+    border-radius:0px 0px 10px 10px;
 }
 aside
 {
-    height:645px;
-    width: 390px;
-    background-color:#799;
+    height:595px;
+    width: 330px;
+    background-color:#498;
     overflow:auto;
     float:left;
     padding-left:5px;
     padding-top:5px;
+    border-radius:0px 0px 10px 10px;
 }
 
 .hding{
-    color:#232;
+    color:#021;
     font-weight:bolder;
     font-size:20pt;
+
 }
 .sbhding{
-    color:#323;
+    color:#032;
 }
