@@ -52,7 +52,6 @@ article
     float:right;
     padding:5px;
     overflow: auto;
-    border-radius:0px 0px 10px 10px;
 }
 aside
 {
@@ -63,9 +62,21 @@ aside
     float:left;
     padding-left:5px;
     padding-top:5px;
-    border-radius:0px 0px 10px 10px;
 }
-
+footer
+{
+    height: 80px;
+    width:1490px;
+    padding:5px;
+    border-radius:0px 0px 10px 10px;
+    background-color:#143;
+    margin-top:605px;
+    color:#afe
+}
+#logoimg
+{
+    float:right;
+}
 .hding{
     color:#021;
     font-weight:bolder;
